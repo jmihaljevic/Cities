@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f25e2847-03f8-4f90-9af4-f271d1abb345" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/FindUserName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/FindUserName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/JDBCConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/JDBCConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/Validate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/Validate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/model/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/model/City.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/model/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/model/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/AddFavoriteCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/AddFavoriteCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/AddFavoriteCityInDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/AddFavoriteCityInDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/CreateCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/CreateCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/CreateCityInDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/CreateCityInDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/GetAllCities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/GetAllCities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/GetCitiesByDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/GetCitiesByDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/GetCitiesByMembers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/GetCitiesByMembers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/Logout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/Logout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/Register.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/RemoveFavoriteCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/RemoveFavoriteCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/RemoveFavoriteCityFromDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/servlets/RemoveFavoriteCityFromDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/FindUserName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/JDBCConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/Validate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/model/City.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/model/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/AddFavoriteCity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/AddFavoriteCityInDatabase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/CreateCity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/CreateCityInDatabase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/GetAllCities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/GetCitiesByDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/GetCitiesByMembers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/Logout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/Register.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/RemoveFavoriteCity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/virtualpairprogrammers/servlets/RemoveFavoriteCityFromDatabase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tomcat.8080/work/Tomcat/localhost/ROOT/org/apache/jsp/order_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/tomcat.8080/work/Tomcat/localhost/ROOT/org/apache/jsp/order_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tomcat.8080/work/Tomcat/localhost/ROOT/org/apache/jsp/searchResults_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/tomcat.8080/work/Tomcat/localhost/ROOT/org/apache/jsp/searchResults_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cities/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cities/main/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -127,7 +87,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cities/JDBCConnection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -136,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/removefavorite.jsp">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cities/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" selection-start-line="7" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="306">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -161,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/styles.css" />
         <option value="$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/servlets/CitiesByMembers.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/sortedCities.jsp" />
@@ -212,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/footer.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/about.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cities/main/Main.java" />
       </list>
     </option>
   </component>
@@ -268,6 +228,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restaurant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cities" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cities" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="restaurant" type="b2602c69:ProjectViewProjectNode" />
@@ -397,7 +366,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577965496262" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577965959679" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -452,7 +421,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -490,13 +460,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/filters/MenuSearchCorrectionFilter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/filters/MenuSearchLoggingFilter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/virtualpairprogrammers/filters/MenuSearchCorrectionRequestWrapper.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cities/main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/searchResults.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/thankYou.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/failed-login.html" />
@@ -782,6 +745,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cities/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
         </state>
       </provider>
     </entry>
