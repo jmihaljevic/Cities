@@ -11,7 +11,7 @@ package org.apache.jsp;
 import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.jsp.*;
-import com.virtualpairprogrammers.domain.MenuItem;
+import com.cities.domain.MenuItem;
 import java.util.List;
 
 public final class order_jsp extends org.apache.jasper.runtime.HttpJspBase
@@ -34,7 +34,7 @@ public final class order_jsp extends org.apache.jasper.runtime.HttpJspBase
     _jspx_imports_packages.add("javax.servlet.jsp");
     _jspx_imports_classes = new java.util.HashSet<>();
     _jspx_imports_classes.add("java.util.List");
-    _jspx_imports_classes.add("com.virtualpairprogrammers.domain.MenuItem");
+    _jspx_imports_classes.add("com.cities.domain.MenuItem");
   }
 
   private volatile javax.el.ExpressionFactory _el_expressionfactory;

@@ -1,6 +1,6 @@
-package com.virtualpairprogrammers.servlets;
+package com.cities.servlets;
 
-import com.virtualpairprogrammers.model.City;
+import com.cities.model.City;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletContext;

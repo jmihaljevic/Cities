@@ -1,7 +1,7 @@
-package com.virtualpairprogrammers.servlets;
+package com.cities.servlets;
 
-import com.virtualpairprogrammers.FindUserName;
-import com.virtualpairprogrammers.Validate;
+import com.cities.FindUserName;
+import com.cities.Validate;
 
 import java.io.*;
 import javax.servlet.*;

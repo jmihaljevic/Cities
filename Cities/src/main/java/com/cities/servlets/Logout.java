@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers.servlets;
+package com.cities.servlets;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

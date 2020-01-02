@@ -1,6 +1,6 @@
-package com.virtualpairprogrammers.model;
+package com.cities.model;
 
-import com.virtualpairprogrammers.JDBCConnection;
+import com.cities.JDBCConnection;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

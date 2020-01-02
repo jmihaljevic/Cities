@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers;
+package com.cities;
 
 import java.sql.*;
 

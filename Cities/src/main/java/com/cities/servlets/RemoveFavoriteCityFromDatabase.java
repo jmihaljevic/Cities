@@ -1,6 +1,6 @@
-package com.virtualpairprogrammers.servlets;
+package com.cities.servlets;
 
-import com.virtualpairprogrammers.JDBCConnection;
+import com.cities.JDBCConnection;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

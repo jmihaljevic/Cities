@@ -1,4 +1,4 @@
-package com.virtualpairprogrammers.main;
+package com.cities.main;
 
 import java.io.File;
 

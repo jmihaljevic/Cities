@@ -1,6 +1,6 @@
-package com.virtualpairprogrammers.servlets;
+package com.cities.servlets;
 
-import com.virtualpairprogrammers.model.Member;
+import com.cities.model.Member;
 
 import java.io.*;
 import javax.servlet.*;
